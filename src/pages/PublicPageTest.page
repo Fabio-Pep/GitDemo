@@ -1,0 +1,5 @@
+<apex:page id="Page" showHeader="false" controller="PublicPageTestController" action="{!InitPage}" cache="false">
+	<apex:form >
+		The Newsletter cancellation was successful. Thank you!
+	</apex:form>
+</apex:page>
